@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stocks>
+    <stock>
+        <product_id>1</product_id>
+        <quantity>10</quantity>
+    </stock>
+    <stock>
+        <id_produs>2</id_produs>
+        <quantity>20</quantity>
+    </stock>
+    <stock>
+        <id_produs>3</id_produs>
+        <quantity>-30</quantity>
+    </stock>
+</stocks>
